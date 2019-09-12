@@ -1,4 +1,4 @@
 server:
   port: 9999
 premium-email-suffix: programmer.net
-address-type: OF
+address-type: EGON
